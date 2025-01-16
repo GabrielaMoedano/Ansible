@@ -1,0 +1,6 @@
+[dbservers]
+student-16-server-a
+
+[webservers]
+student-16-server-b
+student-16-server-c
